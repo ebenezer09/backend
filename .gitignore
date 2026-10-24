@@ -3,8 +3,11 @@
 /sdk/**/node_modules/
 /sdk/**/dist/
 /sdk/rust/generated/Cargo.lock
-.env
-.env.local
+temp_auto_push.bat
 .DS_Store
 *.db
 *.db-journal
+.gitignore
+branch_structure.json
+config.bat
+node_modules
